@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Bitnami <containers@bitnami.com>
+MAINTAINER Bitnami <111111111111111111111>
 
 RUN apt-get update && \
     apt-get install -y git build-essential unzip file curl ca-certificates sudo locales procps libaio1 gnupg dirmngr && \
